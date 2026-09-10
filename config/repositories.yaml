@@ -1,0 +1,4 @@
+repositories:
+  - name: mkm_assessment
+  - name: robot-ci-demo
+  - name: particle41
