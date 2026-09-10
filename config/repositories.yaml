@@ -1,4 +1,7 @@
 repositories:
   - name: mkm_assessment
+    ruleset: standard-ruleset.json
   - name: robot-ci-demo
+    ruleset: standard-ruleset.json
   - name: particle41
+    ruleset: standard-ruleset.json
