@@ -1,11 +1,11 @@
-name: Governance
+name: Github API Governance
 
 on:
   workflow_dispatch:
 
 jobs:
-  governance:
-    runs-on: ubuntu-latest
+  github_api_governance:
+    runs-on: [self-hosted]
 
     steps:
       - name: Checkout
