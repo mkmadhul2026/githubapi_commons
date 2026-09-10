@@ -1,7 +1,7 @@
 import requests
 
 GITHUB_API_URL = "https://api.github.com"
-GITHUB_TOKEN = "${GITHUB_TOKEN}"  # Replace with your GitHub personal access token
+GITHUB_TOKEN = "${COMMON_TOKEN}"  # Replace with your GitHub personal access token
 
 owner = "mkmadhul2026"
 repo = "githubapi_commons"
