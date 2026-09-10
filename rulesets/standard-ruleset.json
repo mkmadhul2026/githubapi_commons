@@ -6,9 +6,9 @@
     "ref_name": {
       "include": [
         "refs/heads/main",
-        "refs/heads/dev",
-        "refs/heads/int",
-        "refs/heads/rel"
+        "refs/heads/dev.*",
+        "refs/heads/int.*",
+        "refs/heads/rel.*"
       ],
       "exclude": []
     }
